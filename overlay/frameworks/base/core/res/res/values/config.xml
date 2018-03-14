@@ -98,9 +98,6 @@
     -->
     <string translatable="false" name="config_radio_access_family">GPRS|EDGE|WCDMA</string>
 
-    <!-- Enable LED settings -->
-    <bool name="config_intrusiveNotificationLed">true</bool>
-
     <!-- Enable button brightness -->
     <bool name="config_deviceHasVariableButtonBrightness">true</bool>
 
